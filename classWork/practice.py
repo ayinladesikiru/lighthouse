@@ -22,3 +22,5 @@ name = input("Enter your name: ")
 
 print(len(name))
 
+# from this point, git is iniatialized"
+
